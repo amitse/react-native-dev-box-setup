@@ -1,0 +1,7 @@
+choco upgrade git -params /GitAndUnixToolsOnPath -y
+choco update nodejs.install -y
+choco update yarn -y
+choco update python2 -y
+choco update jdk8 -y
+choco upgrade androidstudio -y
+choco upgrade vscode -y
